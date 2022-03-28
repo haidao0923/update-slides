@@ -1,2 +1,2 @@
 # update-slides
-Automatically update powerpoint slides with given parameter
+The goal of this project is to automate the boring manual task of creating a new graphic every week for Board Game Club meetings. Before, I had to click and type several times to change the date and location of the weekly meeting as well as clicking to save the file to a specific location. This simplify the process, and I just have to input the date and location one time when running the script. In addition, simply changing a few parameters, I could update multiple graphics very quickly.
